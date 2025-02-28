@@ -22,7 +22,7 @@ Smart Urban Greenifier is a project aimed at promoting urban sustainability thro
 - Folium: For visualizing geospatial data on interactive maps.
 
 # ⚙️ Repository Structure
-bash
+
 Smart-Urban-Greenifier/
 │
 ├── data/                  # Raw and processed data

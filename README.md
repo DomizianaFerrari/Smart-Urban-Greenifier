@@ -22,7 +22,7 @@ Smart Urban Greenifier is a project aimed at promoting urban sustainability thro
 - Folium: For visualizing geospatial data on interactive maps.
 
 # ⚙️ Repository Structure
-
+```
 Smart-Urban-Greenifier/
 │
 ├── data/                  # Raw and processed data
@@ -43,20 +43,27 @@ Smart-Urban-Greenifier/
 │
 ├── README.md              # This file
 └── requirements.txt       # Project dependencies
+```
 
 # 📝 Installation Instructions
 - Clone the repository:
+``` bash
 git clone https://github.com/your-username/Smart-Urban-Greenifier.git
 cd Smart-Urban-Greenifier
+```
 
 - Install dependencies:
+```
 pip install -r requirements.txt
+```
 
 - Load and prepare the data:
 Make sure you have the necessary data in the data/raw folder, or download it from an external source.
 
 - Run the sample notebook:
+```
 Open the notebook notebooks/01_data_analysis.ipynb to explore the data and start the analysis.
+```
 
 # 📊 Contribute
 Contributions to the project are welcome! If you want to improve the code or add new features, follow these steps:
